@@ -1,2 +1,2 @@
 # advance-cryptography
-Differenet Implemenation of Cryptographic methods in python code.
+Implemenation of Cryptographic methods in python code.
