@@ -1,2 +1,2 @@
 # advance-cryptography
-i know you are here to copy and paste...enjoy it
+Differenet Implemenation of Cryptographic methods in python code.
